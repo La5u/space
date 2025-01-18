@@ -1,3 +1,4 @@
+ORIGINAL SOURCE: https://gist.github.com/StanislavPetrovV/242f14f6c04b373d7a91b7deae714784
 # SPACE
 - click to reverse forward/backward
 - press s to make it only spin
